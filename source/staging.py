@@ -18,7 +18,7 @@ def run_script(script_name, delay_seconds):
     message = script_messages.get(script_name, "Running Script")
     print(message)
     time.sleep(delay_seconds)
-    subprocess.call(["python", script_name])
+    subprocess.call(["python3", script_name])
 
 def main():
     scripts_to_run = ["source/Prog1.py", "source/Prog2.py" , "source/Prog3.py", "source/Prog4.py", "source/Prog5.py", "source/Prog6.py", "source/Prog7.py", "source/Prog8.py"]
