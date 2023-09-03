@@ -1,0 +1,5 @@
+{
+	"go": "/MAV:A/MAC:H/MPR:H/MUI:R",
+	"alpine": "/MAV:A/MAC:H/MPR:H/MUI:R",
+	"rpm": "/MAV:A/MAC:H/MPR:H/MUI:R"
+}

@@ -1,0 +1,5 @@
+quay_io.docker.proxy
+hub_docker_io.docker.proxy-cache
+gcr_io.docker.proxy-cache
+ghcr_io.docker.proxy-cache
+k8s_gcr_io.docker.proxy

@@ -1,0 +1,9 @@
+numpy
+pandas
+requests
+requests-html
+openpyxl
+selenium
+Flask==2.1.2
+colorama
+xlwings

@@ -1,0 +1,6 @@
+{
+	"Fixed Versions": "[]",
+	"Status": ["False-Positive","Will-Not-Fix"],
+	"Microservice": "security-scripts-cli",
+	"Comment": null
+}

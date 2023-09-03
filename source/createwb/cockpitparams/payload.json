@@ -1,0 +1,60 @@
+{
+    "buildid": "release-2023.1-20230630.130305-176-RELEASE",
+    "applications": [
+        {
+            "name": "cloud-integration-platform",
+            "components": [
+                {
+                    "name": "security-scripts-cli",
+                    "storage_items": [
+                        "pd.saas.docker/cloud-core/security-scripts-cli-assembly-release-2023.1-4.0.0/build2/manifest.json"
+                    ],
+                    "version": "release-2023.1-4.0.0-20230316.212429-2"
+                },
+                {
+                    "name": "cloud-integration-platform-ui",
+                    "storage_items": [
+                        "pd.saas.docker/cloud-bss/cloud-integration-platform-ui-assembly-release-2023-1/build33/manifest.json"
+                    ],
+                    "version": "release-2023.1-20230630.124113-33"
+                },
+                {
+                    "name": "cloud-integration-platform-variables-management",
+                    "storage_items": [
+                        "pd.saas.docker/cloud-bss/cloud-integration-platform-variables-management-assembly-release-2023-1/build17/manifest.json"
+                    ],
+                    "version": "release-2023.1-20230627.072132-17"
+                },
+                {
+                    "name": "cloud-integration-platform-systems-catalog",
+                    "storage_items": [
+                        "pd.saas.docker/cloud-bss/cloud-integration-platform-systems-catalog-assembly-release-2023-1/build28/manifest.json"
+                    ],
+                    "version": "release-2023.1-20230628.115305-28"
+                },
+                {
+                    "name": "cloud-integration-platform-catalog",
+                    "storage_items": [
+                        "pd.saas.docker.staging/cloud-bss/cloud-integration-platform-catalog-assembly-release-2023-1/build50/manifest.json"
+                    ],
+                    "version": "release-2023.1-20230630.125726-50"
+                },
+                {
+                    "name": "cloud-integration-platform-engine",
+                    "storage_items": [
+                        "pd.saas.docker/cloud-bss/cloud-integration-platform-engine-assembly-release-2023-1/build49/manifest.json"
+                    ],
+                    "version": "release-2023.1-20230630.125846-49"
+                },
+                {
+                    "name": "cloud-integration-platform-sessions-management",
+                    "storage_items": [
+                        "pd.saas.docker.staging/cloud-bss/cloud-integration-platform-sessions-management-assembly-release-2023-1/build14/manifest.json"
+                    ],
+                    "version": "release-2023.1-20230627.072132-14"
+                }
+            ],
+            "version": "release-2023.1-20230630.130305-176-RELEASE"
+        }
+    ]
+}
